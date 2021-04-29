@@ -5,11 +5,11 @@ User needs to provide the address and credentials required to make API calls to 
 ![1](https://user-images.githubusercontent.com/55170586/116532353-c4fc6680-a8fd-11eb-910a-d15a4dbb2541.png)
 
 
-The user is given four options to choose from
-	1. Create a new dynamic objects with or without any mappings
-	2. Edit an existing dynamic object to add or remove mappings
-	3. Delete an existing dynamic object from FMC
-	4. Get a list of current mappings for a dynamic object 
+The user is given four options to choose from\
+	1. Create a new dynamic objects with or without any mappings\
+	2. Edit an existing dynamic object to add or remove mappings\
+	3. Delete an existing dynamic object from FMC\
+	4. Get a list of current mappings for a dynamic object\
 
 ![2](https://user-images.githubusercontent.com/55170586/116532364-c75ec080-a8fd-11eb-8516-ffb7c48be7e9.png)
 
@@ -37,6 +37,6 @@ When listing the current mappings for a dynamic object, user gets a list of dyna
 
 
 
-To run the application follow the steps below:
-	1. pip install -r requirements.txt
-	2. python main.py
+To run the application follow the steps below:\
+	1. pip install -r requirements.txt\
+	2. python main.py\
