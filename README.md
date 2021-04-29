@@ -30,6 +30,14 @@ When deleting a dynamic object, user gets a list of dynamic objects configured o
 
 ![5](https://user-images.githubusercontent.com/55170586/116532379-cb8ade00-a8fd-11eb-9cfd-0c4bac329ea9.png)
 
+
+
+To run the application follow the steps below:
+	1. pip install -r requirements.txt
+	2. python main.py
+
+
+
 When listing the current mappings for a dynamic object, user gets a list of dynamic objects configured on FMC and needs to select the object whose mapping is required. The list of mappings for the selected object is displayed on the cli.
 
 ![6](https://user-images.githubusercontent.com/55170586/116532382-cc237480-a8fd-11eb-95e2-f6dc47d79879.png)
