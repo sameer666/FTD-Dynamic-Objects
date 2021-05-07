@@ -49,7 +49,7 @@ def get_list(api_path,headers):
 
 def dyna():
 
-    print('############### FMC Dynamic Objects Operations ###############')
+    print('################ FMC Dynamic Objects Operations ###############')
     print('')
     print('1. Create a new Dynamic Object')
     print('2. Update an existing Dynamic Object')
